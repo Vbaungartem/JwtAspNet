@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj": {}
+  },
+  "projects": {
+    "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj",
+        "projectName": "JwtAspNet",
+        "projectPath": "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Componentes\\dotNet\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Componentes\\dotNet\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "D:\\Componentes\\dotNet\\DevExpress 22.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/xIEeoTbEWHxeMogKahivbetnu38rDI5wY9gHuM2zr9j7RhkewL/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23330.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
