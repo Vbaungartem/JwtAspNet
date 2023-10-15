@@ -37,15 +37,11 @@ public class TokenService
         claims.AddClaim(new Claim(ClaimTypes.Name, user.Email));
         claims.AddClaim(new Claim(ClaimTypes.Email, user.Email));
         claims.AddClaim(new Claim(ClaimTypes.GivenName, user.Name));
-        claims.AddClaim(new Claim(ClaimTypes.Name, user.Email));
         claims.AddClaim(new Claim("Image", user.Image));
         
         foreach(var role in user.Roles)
             claims.AddClaim(new Claim(ClaimTypes.Role, role));
         
-        
-        
         return claims;
-
     }
 }

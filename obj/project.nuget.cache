@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65T+1WZ21nzriXI+r9x+TUSKm9KTypwbLKVkuygcnIAqAV3TR9beuf1l777A/oA6oqh5oIBjLB3Fn20MCYFxJw==",
+  "dgSpecHash": "ASaPAq0bqvfActnRVc4/l6oQoudEpWL0DhQuhRKMzE87LwfqEdTeJx+AAS5YmQ4Howj2+3gem9ZVIMt+RRTGow==",
   "success": true,
-  "projectFilePath": "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj",
+  "projectFilePath": "C:\\BALTA\\Segurança em API's\\JwtAspNet\\JwtAspNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.12\\microsoft.aspnetcore.authentication.jwtbearer.7.0.12.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

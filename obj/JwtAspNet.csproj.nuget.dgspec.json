@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj": {}
+    "C:\\BALTA\\Segurança em API's\\JwtAspNet\\JwtAspNet.csproj": {}
   },
   "projects": {
-    "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj": {
+    "C:\\BALTA\\Segurança em API's\\JwtAspNet\\JwtAspNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj",
+        "projectUniqueName": "C:\\BALTA\\Segurança em API's\\JwtAspNet\\JwtAspNet.csproj",
         "projectName": "JwtAspNet",
-        "projectPath": "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\JwtAspNet.csproj",
+        "projectPath": "C:\\BALTA\\Segurança em API's\\JwtAspNet\\JwtAspNet.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\BALTA\\Segurança em APIS ASPNET COM JWT\\JwtAspNet\\obj\\",
+        "outputPath": "C:\\BALTA\\Segurança em API's\\JwtAspNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Componentes\\dotNet\\DevExpress 22.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -29,10 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Componentes\\dotNet\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
-          "D:\\Componentes\\dotNet\\DevExpress 22.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/xIEeoTbEWHxeMogKahivbetnu38rDI5wY9gHuM2zr9j7RhkewL/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -74,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23330.10\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
