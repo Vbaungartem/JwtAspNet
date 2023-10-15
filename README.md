@@ -1,6 +1,3 @@
-
-# README DO PROJETO
-
 # Implementando Segurança e Autenticação de API’s [ASP.NET](http://ASP.NET) com JWT e Bearer authentication 🚀
 
 Meu Linkedin: [https://www.linkedin.com/in/vitório-baungartem-221041192/](https://www.linkedin.com/in/vit%C3%B3rio-baungartem-221041192/)
