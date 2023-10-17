@@ -6,7 +6,10 @@ Meu github: [https://github.com/Vbaungartem](https://github.com/Vbaungartem)
 
 Repositório do Projeto: https://github.com/Vbaungartem/JwtAspNet
 
+Repositório do Projeto final: https://github.com/Vbaungartem/JwtStore/tree/main !!!!!
 ---
+
+### Não esqueça de deixar sua ⭐!!!
 
 **OBSERVAÇÕES IMPORTANTES:** 
 
